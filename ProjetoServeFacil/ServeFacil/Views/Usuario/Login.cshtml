@@ -1,0 +1,59 @@
+﻿@model ServeFacil.ViewModels.UsuarioViewModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <section>
+            @using (Html.BeginForm("Login", "Usuario", new {ReturnUrl = ViewBag.ReturnUrl}, FormMethod.Post, new {@class = "form-horizontal", role = "form"}))
+            {
+                @Html.AntiForgeryToken()
+                <div class="form-horizontal" id="contact">
+                    <h1>Login</h1>
+                    <h4>Para acessar essa página é necessário fazer login</h4>
+                    <hr class="hr-formulario"/>
+                    @Html.ValidationSummary(true)
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.email, new {@class = "col-md-2 control-label"})
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.email, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.email)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Senha, new {@class = "col-md-2 control-label"})
+                        <div class="col-md-10">
+                            @Html.PasswordFor(m => m.Senha, new {@class = "form-control"})
+                            @Html.ValidationMessageFor(m => m.Senha)
+                        </div>
+                    </div>
+                    @*<div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <div class="checkbox">
+                                    @Html.CheckBoxFor(m => m.LembrarLoginESenha)
+                                    @Html.LabelFor(m => m.LembrarLoginESenha)
+                                </div>
+                            </div>
+                        </div>*@
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Login" class="btn btn-default" id="alinharLogin"/>
+                        </div>
+                    </div>
+
+                    <p>
+                        @Html.ActionLink("Esqueceu a Senha?", "RedefinirLoginSenha", "Usuario")<br/>
+                        @Html.ActionLink("Cadastre-se", "Create", "Usuario") se você não possui uma conta.
+                    </p>
+
+                </div>
+
+            }
+        </section>
+    </div>
+</div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+

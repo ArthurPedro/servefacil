@@ -1,0 +1,298 @@
+﻿
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+   overflow-x: hidden;
+}
+
+#container {
+    background-color: #888;
+    width: 100%;
+    height: 100%;
+    border-top: 1px solid #149dd2;
+}
+
+#container header {
+    width: 100%;
+    height: 80px;
+    background-color: #f1f1f1;
+}
+
+#container header h1 {
+    width: 200px;
+    height: 80px;
+    position: absolute;
+    left: 10%;
+}
+
+#container header h1 a {
+    display: block;
+    width: 100%;
+    height: 45px;
+    margin-top: 20px;
+    z-index: 0;
+    background: url("../Content/img/logo.png") no-repeat center center;
+}
+
+#container header h1 a:hover {
+    opacity: .9;
+}
+
+#container header nav.main-menu {
+    width: 100%;
+    height: 80px;
+    background-color: #ffffff;
+    margin: auto;
+    border-bottom: 1px solid #f1f1f1;
+    position: absolute;
+}
+
+#container header nav.main-menu ul {
+    width: 65%;
+    height: 100%;
+    margin: 0 auto;
+    float: right;
+}
+
+nav.main-menu ul li {
+    display: inline-block;
+    margin: 0px 18px 0px 18px;
+    list-style: none;
+    line-height: 80px;
+}
+
+nav.main-menu ul li a {
+    color: #999999;
+    text-decoration: none;
+    font-size: 12pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+nav.main-menu ul li a:hover {
+    color: #149dd2;
+}
+
+.li-search span{
+    display: block;
+    width: 16px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    background: url("../Content/img/lupa.png") no-repeat cen    ter 3px;
+    color: transparent;
+}
+
+.li-search:hover {
+    cursor: pointer;
+}
+
+.login {
+    margin-left: 100px;
+    background: url("../Content/img/login.png") no-repeat center center;
+    width: 32px;
+    height: 32px;
+    display: block;
+    position: relative;
+    top: 10px;
+}
+
+.login:hover {
+    cursor: pointer;
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+}
+
+.banner img{
+    display: block;
+    height: 705px;
+}
+
+.banner h3:nth-child(1), .banner h3:nth-child(2) {
+    position: absolute;
+    margin-top: 200px;
+    color: #ffffff;
+    margin-left: 100px;
+    font-size: 35pt;
+    font-family: "Myriad Pro", sans-serif;
+}
+
+.banner h3:nth-child(2){
+    margin-top: 255px;
+    font-size: 31pt;
+}
+
+.banner h3:nth-child(3), .banner h4:nth-child(4) {
+    position: absolute;
+    color: #ffffff;
+    font-size: 14pt;
+    border: 1px solid #ffffff;
+    font-weight: lighter;
+    font-family: "Open Sans", Times, serif;
+    padding: 5px 10px 5px 10px;
+    bottom: 110px;
+    margin-left: 105px;
+
+}
+
+.banner h3:nth-child(3) {
+    bottom: 150px;
+    font-size: 20pt;
+    text-transform: uppercase;
+    margin-left: 80px;
+    border: 1px solid #149dd2;
+    padding: 10px 20px;
+}
+
+header .box-login {
+    background-color: #ffffff;
+    width: 329px;
+    height: 220px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    margin-top: 115px;
+    box-shadow: 1px 1px 1px #888;
+    border-radius: 5px;
+    right: 64px;
+    
+}
+
+header .box-login span {
+    position: absolute;
+    background: url("../Content/img/angle-up.png") no-repeat top center;
+    width: 100px;
+    height: 100px;
+    top: -40px;
+    left: 35%;
+}
+
+header .box-login form {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 3pt;
+}
+
+header .box-login form input[type="text"],
+header .box-login form input[type="password"]{
+    width: 287px;
+    padding: 8px 5px 8px 10px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    color: #707070;
+}
+
+header .box-login form input[type="password"],
+header .box-login form input[type="submit"]{
+    margin: 8px 0px 0px 0px;
+}
+
+header .box-login form input[type="submit"]{
+    background-color: #15a3db;
+    color: #ffffff;
+    border: 1px solid #dddddd;
+    width: 302px;
+    height: 32px;
+    margin-bottom: 15px;
+}
+
+header .box-login form input[type="submit"]:hover{
+    background-color: #149dd2;
+    box-shadow: 0px 0px 1px #ccc;
+}
+
+header .box-login input[type="checkbox"] {
+    margin-left: 16px;
+    float: left;
+    border: 1px solid #cccccc;
+    background: #ffffff;
+}
+
+header .box-login label p {
+    float: left;
+    font-size: 10.5pt;
+    margin-left: 5px;
+    color: #2b2b2b;
+    cursor: pointer;
+}
+
+header .box-login a {
+    float: right;
+    font-size: 10.5pt;
+    margin-right: 16px;
+    color: #2b2b2b;
+}
+
+header .box-login a:hover {
+    color: #149dd2;
+}
+
+header .box-login p.criar-conta {
+    float: left;
+    font-size: 10.5pt;
+    margin-left: 15px;
+    color: #149dd2;
+    margin-top: 20px;
+}
+
+header .box-login p.criar-conta:hover{
+    border-bottom: 1px solid #149dd2;
+    cursor: pointer;
+}
+
+
+/* alteração Edwin Aldryn sobre o cadastro de usuarios */
+
+    #cadastrar-usuario {
+	    width: auto;
+        margin:auto;
+        padding: 40px;
+        font-family:'Open Sans', sans-serif;
+	    background: #c9d0de; border: 1px solid #e1e1e1;
+	    -moz-box-shadow: 0px 0px 8px #444;
+	    -webkit-box-shadow: 0px 0px 8px #444;
+    }
+
+.btn {
+    background-color: #15a3db;
+    color: #ffffff;
+    border: 1px solid #dddddd;
+    width: 302px;
+    height: 32px;
+    margin-bottom: 15px;
+    margin-top:50px;
+    font-size:18px;
+    
+}
+
+.btn:hover{
+    background-color: #2b2b2b;
+    box-shadow: 0px 0px 1px #ccc;
+}
+
+#cadastrar-usuario   input[type="text"], input[type="password"],input[type="email"],
+select{
+
+    width: 287px;
+    padding: 8px 5px 8px 10px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    color: #707070;
+    text-transform:uppercase;
+    font-size: 13px;
+}
+
+
+/* CSS CONTACT */
+
+#container .box-contact {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}

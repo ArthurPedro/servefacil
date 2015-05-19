@@ -1,0 +1,203 @@
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+c:\users\e.freire.de.araujo\documents\visual studio 2013\Projects\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e.freire.de.araujo\Desktop\ServeFacil (25.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\e.freire.de.araujo\Documents\Códigos\ServeFacil (30.03.2015)\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual.resources
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csproj.GenerateResource.Cache
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.email2.resources
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.configurações.resources
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual2.resources
+C:\Arthur\Arthur\Curso\4 Simestre\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual23.resources
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual.resources
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.email2.resources
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.configurações.resources
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual2.resources
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual23.resources
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csproj.GenerateResource.Cache
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual1.resources
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csproj.GenerateResource.Cache
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual15.resources
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual.resources
+C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csproj.GenerateResource.Cache
