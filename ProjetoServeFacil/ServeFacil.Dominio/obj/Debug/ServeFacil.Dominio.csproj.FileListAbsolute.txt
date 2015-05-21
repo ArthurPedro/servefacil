@@ -135,3 +135,30 @@ C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\
 C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Dominio\obj\Debug\ServeFacil.Dominio.dll
 C:\Users\e.freire.de.araujo\Desktop\Versões SERVEFACIL\VERSÃO 2.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Dominio\obj\Debug\ServeFacil.Dominio.pdb
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\ServeFacil.Dominio.dll.config
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\obj\Debug\ServeFacil.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\obj\Debug\ServeFacil.Dominio.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\obj\Debug\ServeFacil.Dominio.pdb
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.Helpers.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.Razor.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.Helpers.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.Razor.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Dominio\bin\Debug\System.Web.WebPages.Razor.xml

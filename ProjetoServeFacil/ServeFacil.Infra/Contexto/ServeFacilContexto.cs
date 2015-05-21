@@ -36,12 +36,12 @@ namespace ServeFacil.Infra.Contexto
             //modelBuilder.Properties().Where(p => p.Name == p.ReflectedType.Name + "Id")
             //    .Configure(p => p.IsKey());
             //    // Arthur:  Aqui força ele criar a PK caso ele não crie 
-            //modelBuilder.Properties<string>().Configure(p => p.HasColumnType("varchar"));
-            //    // Arthur: Aqui ele cria todas as propriedades do Banco de Dados como varchar 
-            //    // e não NVARCHAR que ocupa mas espaço no banco de dados 
-           
-            //modelBuilder.Properties<string>().Configure(p => p.HasMaxLength(100));
-            //    // Arthur: define o tamanho padrão de 100 para strings 
+            modelBuilder.Properties<string>().Configure(p => p.HasColumnType("varchar"));
+            // Arthur: Aqui ele cria todas as propriedades do Banco de Dados como varchar 
+            // e não NVARCHAR que ocupa mas espaço no banco de dados 
+
+            modelBuilder.Properties<string>().Configure(p => p.HasMaxLength(100));
+            // Arthur: define o tamanho padrão de 100 para strings 
 
             modelBuilder.Entity<Usuario>().MapToStoredProcedures();
             modelBuilder.Entity<Categoria>().MapToStoredProcedures();
@@ -49,14 +49,14 @@ namespace ServeFacil.Infra.Contexto
             modelBuilder.Entity<Plano>().MapToStoredProcedures();
             modelBuilder.Entity<Portifolio>().MapToStoredProcedures();
             modelBuilder.Entity<PortifolioPromovido>().MapToStoredProcedures();
-            
-            //modelBuilder.Configurations.Add(new UsuarioConfiguration());
-            //modelBuilder.Configurations.Add(new CategoriaConfiguration());
-            //modelBuilder.Configurations.Add(new ImagensConfiguration());
-            //modelBuilder.Configurations.Add(new PlanosConfiguration());
-            //modelBuilder.Configurations.Add(new PortifolioConfiguratio());
-            //modelBuilder.Configurations.Add(new PortPromovidosConfiguration());
-            //// Arthur: Os itens acima adicionam as cofigurações de cada classe especifica
+
+            modelBuilder.Configurations.Add(new UsuarioConfiguration());
+            modelBuilder.Configurations.Add(new CategoriaConfiguration());
+            modelBuilder.Configurations.Add(new ImagensConfiguration());
+            modelBuilder.Configurations.Add(new PlanosConfiguration());
+            modelBuilder.Configurations.Add(new PortifolioConfiguratio());
+            modelBuilder.Configurations.Add(new PortPromovidosConfiguration());
+            // Arthur: Os itens acima adicionam as cofigurações de cada classe especifica
         }
 
        

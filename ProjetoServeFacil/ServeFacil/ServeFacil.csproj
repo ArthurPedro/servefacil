@@ -141,6 +141,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Categoria\" />
+    <Folder Include="Views\Contato\" />
     <Folder Include="Views\Imagen\" />
     <Folder Include="Views\Plano\" />
     <Folder Include="Views\PortifolioPromovido\" />
@@ -155,6 +156,7 @@
     <Compile Include="AutoMapper\DomainToViewModelMappingProfile.cs" />
     <Compile Include="AutoMapper\ViewModelToDomainMappingProfile.cs" />
     <Compile Include="Controllers\CategoriaController.cs" />
+    <Compile Include="Controllers\ContatoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ImagenController.cs" />
     <Compile Include="Controllers\PlanoController.cs" />
@@ -266,6 +268,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <Import Project="..\packages\AutoMapper.3.3.1\tools\AutoMapper.targets" Condition="Exists('..\packages\AutoMapper.3.3.1\tools\AutoMapper.targets')" />
   <Import Project="..\packages\AutoMapper.3.3.1\tools\AutoMapper.targets" Condition="Exists('..\packages\AutoMapper.3.3.1\tools\AutoMapper.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

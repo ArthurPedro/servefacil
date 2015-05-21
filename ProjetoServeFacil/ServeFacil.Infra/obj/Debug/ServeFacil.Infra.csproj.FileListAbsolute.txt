@@ -201,3 +201,34 @@ C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFaci
 C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
 C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.atual.resources
 C:\Users\LucasFélix\Desktop\VERSÃO 3.0 SERVEFÁCIL\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csproj.GenerateResource.Cache
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll.config
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Infra.pdb
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\ServeFacil.Dominio.pdb
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Helpers.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.Razor.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.dll
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.pdb
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.Migrations.servefacil.resources
+C:\Users\Arthur\Documents\GitHub\servefacil\ProjetoServeFacil\ServeFacil.Infra\obj\Debug\ServeFacil.Infra.csproj.GenerateResource.Cache
